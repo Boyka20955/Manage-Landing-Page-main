@@ -13,7 +13,6 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#SyntacticDev)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -77,9 +76,3 @@ Umm, Hopefully I think i need to dive more into server side project in order to 
 
 - [Swiperjs](https://swiperjs.com) - This helped me for creating the Testimonies Card. I really liked this pattern and will use it going forward.
 - [Fontawesome](https://fontawesome.com/) - This is an amazing website to get good icons.
-
-## Author
-
-- Youtube Channel - [Syntactic Dev](https://www.youtube.com/channel/UCxdsOlic0fIePoYbCzvJVCQ)
-- Frontend Mentor - [@Syntacticdev](https://www.frontendmentor.io/profile/Syntacticdev)
-- Twitter - [@DevSyntactic](https://www.twitter.com/devsyntacic)
